@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dpami507.github.io/spotifybubble",
+  "homepage": "https://dpami507.github.io/spotifyuniverse",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
